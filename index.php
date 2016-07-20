@@ -11,9 +11,9 @@
 			<h2>User Story</h2>
 			<p>as a user, looking for brown shoes</p>
 			<h2>Persona</h2>
-			<p>Mark - likes this site where he can do on-line shopping easy and hassle free.<br> Being able to browse
-				through different products can help him save lots of time and avoid crowds.<br>
-				Age 41</p>
+			<p>Mark likes this site where he can do on-line shopping from home easy and hassle free.<br> Mark wants to be
+				able to browse through these products because he shops for shoes all the time using this website always. He enjoys it because it helps him save lots of time,avoid crowds and is able to do it from any tablet, desk top or mobile device for convenience<br>
+			Age 41</p>
 		</header>
 		<h2>User Case</h2>
 		<p>Mark wants to be able to go to this site and just make any purchase in a simple and accurate manner.
@@ -21,27 +21,23 @@
 			<br>Depending on how well this page is
 			designed and how user friendly it is; Mark would want to suggest it to other potential users in the future by
 			going to the site.
-			<a href="https://ebay.com" target="_blank">ebay.com</a>
-			<br>This action could be made on any tablet, desk top or mobile device for convenience</p>
+			</p>
+		<a href="https://ebay.com" target="_blank">ebay.com</a>
 		<h2>Interaction Flow</h2>
 		<ul>
 			<li>Mark accesses the page</li>
-			<li>He also determines category of shoes he desires</li>
-			<li>Mark then clicks on the pair of shoes he liked</li>
+			<li>Determines category of shoes he desires</li>
+			<li>Clicks on the pair of shoes he liked</li>
 			<li>site takes Mark to the "buy now" option</li>
-			<li>then it takes Mark to sign in or "register" screen</li>
-			<li>then taken to final steps of transaction - check out</li>
 		</ul>
 		<h2>Conceptual Model</h2>
 		<ol>
-			<li>Every product has a description</li>
-			<li>Each product has a product ID</li>
-			<li>All products have a name</li>
-			<li>There are different categories for all products</li>
-			<li>They all include price</li>
-			<li>Product indicates stock status</li>
+			<li>A product has many star ratings</li>
+			<li>A user can star many products</li>
+			<li>A user can rate many products</li>
 		</ol>
 		<h2>Entitiy Relationship Diagram</h2>
+		<img src="images/ebay-erd.svg" alt="ebayerd">
 	</body>
 </html>
 
