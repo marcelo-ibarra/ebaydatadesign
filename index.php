@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<header>
-			<h1>Ebay Data Design</h1>
+			<h1>eBay Data Design</h1>
 			<hr>
 			<h2>User Story</h2>
 			<p>as a user, looking for brown shoes</p>
