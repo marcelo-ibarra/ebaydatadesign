@@ -9,7 +9,7 @@
 			<h1>Ebay Data Design</h1>
 			<hr>
 			<h2>User Story</h2>
-			<p>as a user, looking for a pair of brown shoes</p>
+			<p>as a user, looking for brown shoes</p>
 			<h2>Persona</h2>
 			<p>Mark - likes this site where he can do on-line shopping easy and hassle free.<br> Being able to browse
 				through different products can help him save lots of time and avoid crowds.<br>
