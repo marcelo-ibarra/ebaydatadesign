@@ -15,7 +15,7 @@
 				able to browse through these products because he shops for shoes all the time using this website always. He enjoys it because it helps him save lots of time,avoid crowds and is able to do it from any tablet, desk top or mobile device for convenience<br>
 			Age 41</p>
 		</header>
-		<h2>User Case</h2>
+		<h2>Use Case</h2>
 		<p>Mark wants to be able to go to this site and just make any purchase in a simple and accurate manner.
 			This website displays all types of products desired by many customers.
 			<br>Depending on how well this page is
