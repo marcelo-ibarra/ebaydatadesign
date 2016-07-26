@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<meta charset="utf-8"/>
 		<title>Ebay Data Design Assingment</title>
-		<link href="css/style.css" rel="stylesheet" type="text/css"/>
+		<link href="style.css" type="text/css" rel="stylesheet" >
 	</head>
 	<body>
 		<header>
@@ -26,7 +27,8 @@
 		<h2>Interaction Flow</h2>
 		<ul>
 			<li>Mark accesses the page</li>
-			<li>Determines category of shoes he desires</li>
+			<li>browse product</li>
+			<li>chooses type of shoes he desires</li>
 			<li>Clicks on the pair of shoes he liked</li>
 			<li>site takes Mark to the "buy now" option</li>
 		</ul>
@@ -37,7 +39,7 @@
 			<li>A user can rate many products</li>
 		</ol>
 		<h2>Entitiy Relationship Diagram</h2>
-		<img src="images/ebay-erd.svg" alt="ebayerd">
+		<img src="../images/eBay-erd.svg" alt="eBayerd"
 	</body>
 </html>
 
